@@ -1,0 +1,27 @@
+version: "3.9"
+services:
+#docker run -it --publish 7000:4000 --detach terianscada
+  app:
+    image: teriandev/terianscada:latest
+    ports:
+      - 7000:4000
+    volumes:
+      - .:/app
+
+  postgres:
+    image: postgres:14.3-alpine
+    restart: always
+    ports: 
+      - "5432:5432"
+    environment:
+      - DATABASE_HOST=127.0.0.1
+      - POSTGRES_USER=root
+      - POSTGRES_PASSWORD=root
+      - POSTGRES_DB=terian-scada
+    volumes:
+      - postgresql-volume:/var/lib/postgresql/data      
+
+volumes: 
+  postgresql-volume:
+    external: true
+  
