@@ -3,9 +3,10 @@ services:
 #docker run -it --publish 7000:4000 --detach terianscada
   app:
     image: teriandev/terianscada:latest
+    restart: always
     ports:
       - 7000:4000
-    volumes:
+    volumes: #Solo requerido para desarrollo Local
       - .:/app
 
   postgres:
@@ -18,10 +19,13 @@ services:
       - POSTGRES_USER=root
       - POSTGRES_PASSWORD=root
       - POSTGRES_DB=terian-scada
+      - DATABASE_URL=postgresql://root:root@postgres:5432/terian-scada
     volumes:
-      - postgresql-volume:/var/lib/postgresql/data      
+      - postgresql-volume:/var/lib/postgresql/data    
+    depends_on:
+      - app
 
 volumes: 
   postgresql-volume:
-    external: true
+    external: false
   

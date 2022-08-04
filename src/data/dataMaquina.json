@@ -1,0 +1,143 @@
+{"tempMaquina": [
+    {
+      "cod-maquina": "CA13",
+      "descripcion": "CALDERA PLANTA CORRUGADOS MEX",
+      "mac-address": "A9-B8-C7-D6-E5-F4"
+    },
+    {
+      "cod-maquina": "COR01",
+      "descripcion": "CORTADORA",
+      "mac-address": "A9-B8-C7-D6-E5-F4"
+    },
+    {
+      "cod-maquina": "CRG02",
+      "descripcion": "CORRUGADORA NO.2",
+      "mac-address": "A9-B8-C7-D6-E5-F4"
+    },
+    {
+      "cod-maquina": "CRG03",
+      "descripcion": "CORRUGADORA NO.3",
+      "mac-address": "A9-B8-C7-D6-E5-F4"
+    },
+    {
+      "cod-maquina": "EMB02",
+      "descripcion": "EMBARQUES(ADUANA)",
+      "mac-address": "A9-B8-C7-D6-E5-F4"
+    },
+    {
+      "cod-maquina": "EMP02",
+      "descripcion": "EMPAQUE",
+      "mac-address": "A9-B8-C7-D6-E5-F4"
+    },
+    {
+      "cod-maquina": "GRA03",
+      "descripcion": "GRAPADORA 1",
+      "mac-address": "A9-B8-C7-D6-E5-F4"
+    },
+    {
+      "cod-maquina": "GRA04",
+      "descripcion": "GRAPADORA 2",
+      "mac-address": "A9-B8-C7-D6-E5-F4"
+    },
+    {
+      "cod-maquina": "GRA05",
+      "descripcion": "GRAPADORA 3",
+      "mac-address": "A9-B8-C7-D6-E5-F4"
+    },
+    {
+      "cod-maquina": "GRA06",
+      "descripcion": "GRAPADORA 4",
+      "mac-address": "A9-B8-C7-D6-E5-F4"
+    },
+    {
+      "cod-maquina": "GRA07",
+      "descripcion": "GRAPADORA 5",
+      "mac-address": "A9-B8-C7-D6-E5-F4"
+    },
+    {
+      "cod-maquina": "GRA08",
+      "descripcion": "GRAPADORA\/PEGADORA 6",
+      "mac-address": "A9-B8-C7-D6-E5-F4"
+    },
+    {
+      "cod-maquina": "GRA09",
+      "descripcion": "GRAPADORA\/PEGADORA 7",
+      "mac-address": "A9-B8-C7-D6-E5-F4"
+    },
+    {
+      "cod-maquina": "HUA01",
+      "descripcion": "HUACALERA",
+      "mac-address": "A9-B8-C7-D6-E5-F4"
+    },
+    {
+      "cod-maquina": "IMP05",
+      "descripcion": "IMPRESORA UNITED",
+      "mac-address": "A9-B8-C7-D6-E5-F4"
+    },
+    {
+      "cod-maquina": "IMP06",
+      "descripcion": "IMPRESORA TCY",
+      "mac-address": "A9-B8-C7-D6-E5-F4"
+    },
+    {
+      "cod-maquina": "IMP07",
+      "descripcion": "IMPRESORA FLEXO",
+      "mac-address": "A9-B8-C7-D6-E5-F4"
+    },
+    {
+      "cod-maquina": "IMP08",
+      "descripcion": "IMPRESORA PIEMONTE",
+      "mac-address": "A9-B8-C7-D6-E5-F4"
+    },
+    {
+      "cod-maquina": "IMP12",
+      "descripcion": "IMPRESORA BOXXON",
+      "mac-address": "F4-30-B9-14-7F-79"
+    },
+    {
+      "cod-maquina": "IMP15",
+      "descripcion": "IMPRESORA NOVO 1025 MEX",
+      "mac-address": "A9-B8-C7-D6-E5-F4"
+    },
+    {
+      "cod-maquina": "IMP16",
+      "descripcion": "IMPRESORA INOVA",
+      "mac-address": "A9-B8-C7-D6-E5-F4"
+    },
+    {
+      "cod-maquina": "IMP17",
+      "descripcion": "IMPRESORA TROQ-1628",
+      "mac-address": "A9-B8-C7-D6-E5-F4"
+    },
+    {
+      "cod-maquina": "IMP18",
+      "descripcion": "IMPRESORA MINI LINE 618 FFG",
+      "mac-address": "A9-B8-C7-D6-E5-F4"
+    },
+    {
+      "cod-maquina": "PEG02",
+      "descripcion": "PEGADORA EMBA",
+      "mac-address": "A9-B8-C7-D6-E5-F4"
+    },
+    {
+      "cod-maquina": "PEG03",
+      "descripcion": "PEGADORA EMBA II",
+      "mac-address": "A9-B8-C7-D6-E5-F4"
+    },
+    {
+      "cod-maquina": "PEG04",
+      "descripcion": "PEGADORA EMBA III",
+      "mac-address": "A9-B8-C7-D6-E5-F4"
+    },
+    {
+      "cod-maquina": "PLG02",
+      "descripcion": "UNITIZADORA 02 MEX CORRUGADOS",
+      "mac-address": "A9-B8-C7-D6-E5-F4"
+    },
+    {
+      "cod-maquina": "RAY01",
+      "descripcion": "RAYADORA",
+      "mac-address": "A9-B8-C7-D6-E5-F4"
+    }
+  ]}
+  
